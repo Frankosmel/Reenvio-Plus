@@ -30,10 +30,7 @@ Funciona en la nube, lo que significa que **no necesitas dejar tu computadora o 
 ## 📸 Vista Previa de la Plataforma
 
 <p align="center">
-  <img src="assets/screenshots/screenshot-dashboard.png" width="22%" alt="Dashboard Reenvío Plus" style="border-radius: 8px; margin: 4px;">
-  <img src="assets/screenshots/screenshot-channels.png" width="22%" alt="Gestión de Canales" style="border-radius: 8px; margin: 4px;">
-  <img src="assets/screenshots/screenshot-plans.png" width="22%" alt="Suscripciones y Planes" style="border-radius: 8px; margin: 4px;">
-  <img src="assets/screenshots/screenshot-settings.png" width="22%" alt="Ajustes y Delays" style="border-radius: 8px; margin: 4px;">
+  <img src="assets/screenshots/test_img.jpg" width="18%" alt="Captura 1" style="border-radius: 8px; margin: 3px;">
 </p>
 
 ---
