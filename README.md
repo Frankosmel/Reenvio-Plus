@@ -30,7 +30,11 @@ Funciona en la nube, lo que significa que **no necesitas dejar tu computadora o 
 ## 📸 Vista Previa de la Plataforma
 
 <p align="center">
-  <img src="assets/screenshots/test_img.jpg" width="18%" alt="Captura 1" style="border-radius: 8px; margin: 3px;">
+  <img src="assets/screenshots/cap1.jpg" width="18%" alt="Captura 1" style="border-radius: 8px; margin: 3px;">
+  <img src="assets/screenshots/cap2.jpg" width="18%" alt="Captura 2" style="border-radius: 8px; margin: 3px;">
+  <img src="assets/screenshots/cap3.jpg" width="18%" alt="Captura 3" style="border-radius: 8px; margin: 3px;">
+  <img src="assets/screenshots/cap4.jpg" width="18%" alt="Captura 4" style="border-radius: 8px; margin: 3px;">
+  <img src="assets/screenshots/cap5.jpg" width="18%" alt="Captura 5" style="border-radius: 8px; margin: 3px;">
 </p>
 
 ---
